@@ -29,6 +29,7 @@ Explore the interactive Tableau dashboard [here](https://public.tableau.com/app/
      - Handled missing values, inconsistent formats, and unit conversions.
      - Generated new calculated fields for time, pace, and date/time formats.
    - Stored cleaned data in an SQLite database for long-term access.
+   - Utilize data scaffolding for visualization
 
 ### 3. **Data Loading**
    - Established an ETL pipeline to automate the regular fetching, transformation, and updating of data.
