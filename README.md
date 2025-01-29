@@ -3,7 +3,7 @@
 ## Project Overview
 This project is a dynamic [dashboard](https://public.tableau.com/app/profile/peter.califano1707/viz/RunDataReportDarkMode/WeeklyDashboard) that visualizes activity data from Strava, providing insights into performance trends, training patterns, and progress over time. The dashboard combines the power of API integration, ETL (Extract, Transform, Load) pipelines, and advanced data visualization to deliver meaningful, interactive insights.
 
-Explore the interactive Tableau dashboard here: [dark mode](https://public.tableau.com/app/profile/peter.califano1707/viz/RunDataReportDarkMode/WeeklyDashboard) [light mode](https://public.tableau.com/app/profile/peter.califano1707/viz/RunDataReportLightMode/WeeklyDashboard#1).
+Explore the interactive Tableau dashboard here: [dark mode](https://public.tableau.com/app/profile/peter.califano1707/viz/RunDataReportDarkMode/WeeklyDashboard), [light mode](https://public.tableau.com/app/profile/peter.califano1707/viz/RunDataReportLightMode/WeeklyDashboard#1).
 
 ## Features
 - **Comprehensive Activity Tracking**: Analyze data such as distance, duration, pace, elevation, and heart rate.
